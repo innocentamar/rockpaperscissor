@@ -1,3 +1,4 @@
+#please provide some comments in the code for understanding purpose.
 import random
 attempts = 1
 your_score = 0
